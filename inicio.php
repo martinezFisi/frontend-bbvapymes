@@ -105,6 +105,11 @@
     <div class="container">
         <div class="imgtitulo"><center><img src="assests/images/bbva.png" width="180" class="img-responsive"></center></div>
         <div class="titulo"><p style="font-size: xx-large;"><b>¡Bienvenido!</b></p>
+            
+            <p style="font-size: xx-large;"><b>¡mira el video demostrativo! <a href="https://drive.google.com/file/d/1VLLxSgT55UqLGOby9rmDejq0eJeJSDcD/view?usp=sharing" target="_blank"> aqui</a></b></p>
+            
+            
+            
             <p>Mira los productos que tenemos para ti</p></div>
     </div>
 
