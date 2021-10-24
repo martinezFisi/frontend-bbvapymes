@@ -1,0 +1,74 @@
+.titulo {
+    font-size: x-large;
+    color: white;
+    padding-bottom: 3%;
+}
+.imgtitulo {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.info{
+    position: absolute;
+    font-family: Arial Rounded MT Bold;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.cuenta{
+    color: white;
+    top: 50%; 
+    padding-top: 1%;
+    padding-bottom: 3%;
+    padding-right: 3%;
+    padding-left: 3%;
+    background-color: #004481;
+}
+
+.btn-bbva{
+    color: white;
+    background-color: #5AC4C4;
+}
+
+@media (max-width: 767px) {
+    h2{
+        font-size: x-large;
+    }
+    .titulo {
+        text-align:center;
+        margin:auto;
+        font-size: x-large;
+        color: white;
+    }
+    .imgtitulo {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .cuenta{
+        color: white;
+        top: 50%; 
+        padding-top: 1%;
+        padding-bottom: 3%;
+        padding-right: 3%;
+        padding-left: 3%;
+        background-color: #004481;
+        margin: 5%;
+
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
